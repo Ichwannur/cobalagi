@@ -1,7 +1,7 @@
 // E1E121050 - ANNISA AZ'ZAHRA TARIMANA
 // LINE 1 SAMPAI LINE 55
 
-#include <windows.h> //membersihkan layar
+#include <windows.h> //membersihkan layar AWAL EDITAN
 #include <GL/glut.h> //library grafik
 
 //buat 3 buah method
