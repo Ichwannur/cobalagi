@@ -34,7 +34,7 @@ GLfloat  source_light[]={0.8,0.8,0.8,1.0};
 //GLfloat     light_pos[]={7.0,0.0,1.0,1.0};
 GLfloat     light_pos[]={5.0,0.0,6.0,1.0};
 
-void init(void) //fungsi untuk membuat tempat menggambar
+void init(void) //fungsi untuk membuat tempat menggambar LATIHDUA
 {
 
 glShadeModel(GL_SMOOTH);// MENGHALUSKAN TEKSTUR
