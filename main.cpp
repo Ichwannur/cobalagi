@@ -60,7 +60,7 @@ glClearColor(0.95,0.40,0.70,0.0); //BACKGROUND
 //membuat method risize agar saat layar di maxzimize gambar mengikuti layar sehingga tidak merubah ukuran dari kipasnya
 void resize(int width,int height) //membuat fungsi dengan nama mengubah lebar dan panjangnya
 {
-screen_width=width; //untuk lebar layar
+screen_width=width; //untuk lebar layar  LATIHTIGA
 screen_height=height; //untuk panjang layar
 
 glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT); //fungsinya untuk mendeskripsikan warna tampilan windows yang dibuat
